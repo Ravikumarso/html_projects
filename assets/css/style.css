@@ -1,0 +1,382 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.firstbg{
+    background-image: url(../images/1bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+    
+}
+::-webkit-scrollbar {
+  width: 20px;
+}
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey; 
+    border-radius: 10px;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: red; 
+    border-radius: 10px;
+    
+  }  
+  ::-webkit-scrollbar-thumb:hover {
+    background: #b30000; 
+  }
+.padding{
+  gap: 24px;
+  padding: 0 15%;
+
+}
+.para{
+    font-family: plus jakarta sans,sans-serif;
+    font-weight: 700;
+    text-transform: none;
+    font-size: 1.125em;
+    line-height: 1.5em;
+}
+.hading1{
+    font-family: plus jakarta sans,sans-serif;
+    font-weight: 700;
+    text-transform: none;
+    font-size: 3.75em;
+    line-height: 1.3em;
+    letter-spacing: .001em;
+    color: white;
+}
+.business{
+        background-color: #d31638;
+    
+}
+.input{
+    padding: 14px 2%;
+    border-radius:27px;
+}
+.submit{
+    display: flex;
+    padding: 0 16%;
+
+}
+.navbar{
+    line-height:80px;
+}
+.left1{
+    padding: 159px 20%;
+}
+.finance{
+        color: #cb1334;
+    text-transform: uppercase;
+    line-height: 28px;
+    font-weight: 800;
+}
+.boxleft img{
+    
+    padding: 25px 16%;
+
+}
+.bg-white{
+    height: 53px;
+    width: 150px;
+    width: 150px;
+}
+.gigital{
+    font-family: plus jakarta sans,sans-serif;
+    font-weight: 700;
+    text-transform: none;
+    font-size: 2.625em;
+    line-height: 1.4em;
+    letter-spacing: .001em;
+    color: #060815;
+}
+.two img{
+    margin: -57px 0%;
+}
+.search img{
+    margin: 89px 0%;
+}
+
+
+.team{
+    width: 90%;
+}
+.sbg{
+    background-color: #cb1334;
+    
+}
+.owl-drag {
+    margin: 103px 1%;
+}
+.marketingimg{
+    margin: -96px 0%;
+}
+
+.submit1{
+    background: #d31638 !important;
+    padding: 17px 64px !important;
+    border-radius: 30px!important;
+    color: #fff;
+    border: none;
+    margin: 0 -19%;
+
+}
+.marketing{
+    margin: 0 0 30px;
+    padding: 30px 30px 25px;
+    box-shadow: 5px 4px 50px 0 rgba(0,0,0,.08);
+}
+.third{
+    background-image: url(../images/thirdsection.png);
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    opacity: 1;
+    transition: background .3s,border-radius .3s,opacity .3s;
+}
+.section3{
+    background-image: url(../images/marketing-section-four-bg-img.webp);
+    background-position: center left;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.para{
+    color: #fff;
+    text-transform: uppercase;
+    line-height: 28px;
+}
+.hading{
+    font-family: plus jakarta sans,sans-serif;
+    font-weight: 700;
+    text-transform: none;
+    font-size: 2.625em;
+    line-height: 1.4em;
+    letter-spacing: .001em;
+    color: white;
+}
+.hadingbox{
+    width: 110%;
+}
+.para2{
+    color: white;
+    line-height: 32px;
+}
+.paddingtop{
+    
+    padding: 149px 0%;
+
+}
+.verticalhading{
+    background-image: url(../images/verticalhading.png);
+    background-position: center left;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.sp{
+    color: #d02b4a;
+}
+.redpara{
+    color: #cb1334;
+}
+.leftp{
+    margin: -7px -2%;
+}
+.leftpading{
+    padding: 0 10%;
+}
+.buttons button{
+    background: #d31638;
+    color: white;
+    padding: 8px 7%;
+    outline: none;
+    border-radius: 20px;
+    margin: 27px 24%;
+}
+.buttons button:hover{
+  
+}
+.women{
+    background-color: #f3f3f3;
+background-image: url(../images/bg3.png);
+background-position: center center;
+background-repeat: no-repeat;
+ 
+}
+.sixsection{
+    margin: 148px 0%;
+   
+    position: relative;
+    background-color: black;
+}
+.mobile{
+    width: 480px;
+    margin: -75px 18%;
+}
+.cirul{
+    position: absolute;
+ 
+    top: 34px;
+    left: 39px;
+
+
+
+}
+.padding3{
+    padding: 89px 7%;
+}
+.che{
+    background: #cb1334;
+    border-radius: 50%;
+    
+    padding: 6px 1%;
+
+}
+.star img{
+    position: absolute;
+    top: 42px;
+    right: 61px;
+}
+.threedot{
+    position: absolute;
+    top: 54px;
+    left: 550px;
+}
+.letstalk{
+    color: #d31638;
+    font-weight: 700;
+    font-size: 43px;
+}
+.hiring{
+    color: #665656;
+    font-weight: 600;
+    padding: 0 17%;
+}
+.input{
+    background: white;
+    border-radius: 47px;
+    padding: 14px 12%;
+    outline: none !important;
+}
+.subscibe{
+    background: #cb1334;
+    padding: 14px 19%;
+    margin: 2px 1%;
+    border-radius: 37px;
+}
+.list{
+    display: flex;
+gap: 36px;
+}
+.list li{
+    list-style: none;
+    padding: 19px 0%;
+}
+.list{
+    margin: 0 19%;
+}
+.navbar-toggler{
+        line-height: 1;
+    background-color: #0e0d0d;
+    border: 1px solid #ffecec;
+    border-radius: 0.25rem;
+    color: white;
+}
+.carousel1{
+  border-radius: 38px;
+    margin: 0 4%;
+    padding: 132px 2%;
+}
+.mar{
+    margin: 9px 0%;
+}
+/* .Slide{
+    background-color: black !important;
+
+} */
+.carousel-control-next{
+    display: none;
+}
+.carousel-control-prev{
+    display: none;
+}
+.carousel-indicators{
+    margin: -75px 0%;
+}
+@media only screen and (max-width: 950px) {
+   .left1{
+    display: none;
+   }
+   .boxleft img{
+    display: none;
+   }
+  }
+
+  @media only screen and (max-width: 600px) {
+  
+   .padding{
+    line-height: 17px;
+    padding: unset;
+
+
+   }
+   .gigital {
+  
+    font-size: 28px;
+   }
+   .carousel1{
+    padding: unset;
+
+   }
+   .letstalk {
+    
+    font-size: 24px;
+   }
+   .sixsection {
+    margin: 11px 0%;
+   }
+   .threedot{
+    left: unset;
+   }
+   .text-white {
+    font-size: 16px !important;
+   }
+   .para {
+    font-size: 14px;
+    margin: 33px 0%;
+
+   }
+   .subscibe {
+
+    padding: 14px 38%;
+   }
+   .mobile {
+ 
+    margin: unset;
+   }
+   .navbar {
+    line-height: 42px;
+   }
+   .logo{
+    
+    margin: 0 34%;
+
+   }
+.hading1{
+    font-size: 39px;
+
+   }
+   .many{
+    font-size: 19px;
+   }
+   .submit{
+    padding: unset;
+    display: unset;
+   
+   }
+   .submit1{
+    
+    width: 100%;
+    margin: 13px 0%;
+
+   }
+}
+   
+ 
